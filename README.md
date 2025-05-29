@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning Full Stack Development [MERN], DSA, APIs, and System Design.
-- 👨‍💻 All of my projects are available at [My Portfolio](give portfolio link here)
+<!-- - 👨‍💻 All of my projects are available at [My Portfolio](give portfolio link here)  -->
 - 📫 How to reach me: **aditipathak2822@gmail.com**
 <!-- - ⚡ Fun fact:  I have full conversations in my head, and sometimes they’re more interesting than real ones😂. -->
 
